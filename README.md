@@ -1,9 +1,9 @@
 -Hi, I’m @DaSmelterSaif
--I’m interested in web development (HTML & CSS) and Python
--I have no specific goals in mind regarding Python
--I have some project ideas in mind
--I have a series called Build a Website Under 15 min
--For now, I’m looking to collaborate on any Python project
+-I’m mostly interested in web development (HTML & CSS & JS)
+-I am proefficient in HTML & CSS
+-I'm still learning CSS & JS and am planning to learn Vue.js and Flask
+-I also plan on studying Java to make mc mods
+-I'm currently working on DaSmelter1 1.6.2 mc server website on the side
 -How to reach me: extrnlaccntsaif@gmail.com
 
 <!---
