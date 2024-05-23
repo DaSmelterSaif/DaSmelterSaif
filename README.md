@@ -1,9 +1,7 @@
 -Hi, I’m @DaSmelterSaif
--I’m mostly interested in web development (HTML & CSS & JS)
+-I’m interested in front-end development (HTML & CSS & JS)
 -I am proefficient in HTML & CSS
--I'm still learning CSS & JS and am planning to learn Vue.js and Flask
--I also plan on studying Java to make mc mods
--I'm currently working on DaSmelter1 1.6.2 mc server website on the side
+-I'm still learning JS and am planning to learn Vue.js and other frameworks in the future
 -How to reach me: extrnlaccntsaif@gmail.com
 
 <!---
