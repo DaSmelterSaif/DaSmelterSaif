@@ -1,7 +1,7 @@
 -Hi, I’m @DaSmelterSaif
--I’m interested in front-end development (HTML & CSS & JS)
--I am proefficient in HTML & CSS
--I'm still learning JS and am planning to learn Vue.js and other frameworks in the future
+-I’m interested in front-end development (HTML, CSS, JS, && Vue.js)
+-I'm a huge Python enthusiast
+-I am learning Vue.js right now
 -How to reach me: extrnlaccntsaif@gmail.com
 
 <!---
