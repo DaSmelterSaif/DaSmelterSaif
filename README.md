@@ -5,11 +5,12 @@
 # I'm Saif
 
 - 🖥️ A self-taught full-stack web developer and programmer.
+- 👤 Computer Engineering Student
 - ❤️ I build websites for fun.
 - 🖱️ Experienced in Vue.js and Tailwind CSS.
 - 🛜 Background in Flask and Spring Boot.
 - 💽 Experience in MongoDB.
-- 🎯 Proficiency in JS, Python, C++, and Java.
+- 🎯 Proficiency in Python, JS, Java, and C++.
 - 🧱 Experience in build tools (Vite) and version control (Git).
 - 📖 I'm willing to learn more every chance I get.
 - ✉️ How to reach me: saifaldinsunjaq@gmail.com
